@@ -1,6 +1,7 @@
 # How to run the project & short description
 The project was made using Maven tool in IntellijIdea. To run the project, you need to 
 execute the command from the main directory:
+```java
 java -cp .\target\OcadoBasketSplitter-1.0-SNAPSHOT-jar-with-dependencies.jar 
 com.ocado.basket.Main
 The complete project JAR file is located in the target directory. All *.java files are located 
